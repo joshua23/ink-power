@@ -1,0 +1,5 @@
+{
+  "name": "Ink & Crystal: Industrial AI Rendering",
+  "description": "A high-fidelity image rendering showcase using WebGL shaders to simulate ink breathing, liquid crystallization, and refractive glass comparisons.",
+  "requestFramePermissions": []
+}
